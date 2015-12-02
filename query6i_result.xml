@@ -1,3 +1,4 @@
+<allsalary>
 <avgsalperiod salary="40000" tstart="1985-02-15" tend="1985-02-18"/>
 <avgsalperiod salary="46976.3333333333333333333333333" tstart="1985-02-18" tend="1985-02-21"/>
 <avgsalperiod salary="50855.75" tstart="1985-02-21" tend="1985-02-24"/>
@@ -3138,4 +3139,5 @@
 <avgsalperiod salary="71824.9525" tstart="2002-07-27" tend="2002-07-29"/>
 <avgsalperiod salary="71831.7525" tstart="2002-07-29" tend="2002-07-30"/>
 <avgsalperiod salary="71843.175" tstart="2002-07-30" tend="2002-08-01"/>
+</allsal>
 <avgsalperiod salary="71845.9975" tstart="2002-08-01" tend="9999-12-31"/>

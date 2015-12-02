@@ -1,3 +1,4 @@
+<salaries>
 <salary tend="1991-08-05" tstart="1990-08-05">40000</salary>
 <salary tend="1992-08-04" tstart="1991-08-05">42085</salary>
 <salary tend="1993-08-04" tstart="1992-08-04">42629</salary>
@@ -10,3 +11,4 @@
 <salary tend="2000-08-02" tstart="1999-08-03">58299</salary>
 <salary tend="2001-08-02" tstart="2000-08-02">60098</salary>
 <salary tend="9999-12-31" tstart="2001-08-02">59755</salary>
+</salaries>

@@ -1,3 +1,4 @@
+<alldept>
 <depthist><deptno tend="9999-12-31" tstart="1985-01-01">d001</deptno><deptname tend="9999-12-31" tstart="1985-01-01">Marketing</deptname><mgrno tstart="1994-05-01" tend="1996-05-06">110039</mgrno></depthist>
 <depthist><deptno tend="9999-12-31" tstart="1985-01-01">d002</deptno><deptname tend="9999-12-31" tstart="1985-01-01">Finance</deptname><mgrno tstart="1994-05-01" tend="1996-05-06">110114</mgrno></depthist>
 <depthist><deptno tend="9999-12-31" tstart="1985-01-01">d003</deptno><deptname tend="9999-12-31" tstart="1985-01-01">Human Resources</deptname><mgrno tstart="1994-05-01" tend="1996-05-06">110228</mgrno></depthist>
@@ -7,3 +8,4 @@
 <depthist><deptno tend="9999-12-31" tstart="1985-01-01">d007</deptno><deptname tend="9999-12-31" tstart="1985-01-01">Sales</deptname><mgrno tstart="1994-05-01" tend="1996-05-06">111133</mgrno></depthist>
 <depthist><deptno tend="9999-12-31" tstart="1985-01-01">d008</deptno><deptname tend="9999-12-31" tstart="1985-01-01">Research</deptname><mgrno tstart="1994-05-01" tend="1996-05-06">111534</mgrno></depthist>
 <depthist><deptno tend="9999-12-31" tstart="1985-01-01">d009</deptno><deptname tend="9999-12-31" tstart="1985-01-01">Cuustomer Service</deptname><mgrno tstart="1994-05-01" tend="1996-01-03">111877</mgrno><mgrno tstart="1996-01-03" tend="1996-05-06">111939</mgrno></depthist>
+</alldept>

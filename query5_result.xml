@@ -1,3 +1,4 @@
+<allemp>
 <loyalemp><empno tend="9999-12-31" tstart="1986-06-26">10001</empno><empmgr mgrno="110567" deptno="d005" tstart="1992-04-25" tend="9999-12-31"/></loyalemp>
 <loyalemp><empno tend="9999-12-31" tstart="1996-08-03">10002</empno><empmgr mgrno="111133" deptno="d007" tstart="1996-08-03" tend="9999-12-31"/></loyalemp>
 <loyalemp><empno tend="9999-12-31" tstart="1995-12-03">10003</empno><empmgr mgrno="110420" deptno="d004" tstart="1996-08-30" tend="9999-12-31"/></loyalemp>
@@ -498,3 +499,4 @@
 <loyalemp><empno tend="9999-12-31" tstart="1994-03-09">10498</empno><empmgr mgrno="110420" deptno="d004" tstart="1996-08-30" tend="9999-12-31"/></loyalemp>
 <loyalemp><empno tend="9999-12-31" tstart="1996-07-31">10499</empno><empmgr mgrno="111133" deptno="d007" tstart="1998-03-16" tend="9999-12-31"/></loyalemp>
 <loyalemp><empno tend="9999-12-31" tstart="1996-12-16">10500</empno><empmgr mgrno="110567" deptno="d005" tstart="1996-12-16" tend="9999-12-31"/></loyalemp>
+</allemp>

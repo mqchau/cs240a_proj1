@@ -1,3 +1,4 @@
+<allemp>
 <newemp><firstname tend="9999-12-31" tstart="1986-06-26">Joe</firstname><lastname tend="9999-12-31" tstart="1986-06-26">Doe</lastname><salary tend="2015-12-01-08:00" tstart="2002-06-22">88958</salary></newemp>
 <newemp><firstname tend="9999-12-31" tstart="1996-08-03">Bezalel</firstname><lastname tend="9999-12-31" tstart="1996-08-03">Simmel</lastname><salary tend="2015-12-01-08:00" tstart="2001-08-02">72527</salary></newemp>
 <newemp><firstname tend="9999-12-31" tstart="1995-12-03">Parto</firstname><lastname tend="9999-12-31" tstart="1995-12-03">Bamford</lastname><salary tend="2015-12-01-08:00" tstart="2001-12-01">43311</salary></newemp>
@@ -498,3 +499,4 @@
 <newemp><firstname tend="9999-12-31" tstart="1994-03-09">Valter</firstname><lastname tend="9999-12-31" tstart="1994-03-09">Cappelletti</lastname><salary tend="2015-12-01-08:00" tstart="2002-03-07">51552</salary></newemp>
 <newemp><firstname tend="9999-12-31" tstart="1996-07-31">Maik</firstname><lastname tend="9999-12-31" tstart="1996-07-31">Luft</lastname><salary tend="2015-12-01-08:00" tstart="2002-07-30">49476</salary></newemp>
 <newemp><firstname tend="9999-12-31" tstart="1996-12-16">Vojin</firstname><lastname tend="9999-12-31" tstart="1996-12-16">Narwekar</lastname><salary tend="2015-12-01-08:00" tstart="2001-12-15">54628</salary></newemp>
+</allemp>

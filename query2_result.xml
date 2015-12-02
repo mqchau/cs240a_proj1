@@ -1,3 +1,4 @@
+<allhigh>
 <highsal lastname="Maliniak" firstname="Kyoichi" value="86050" deptno="d003"/>
 <highsal lastname="Stamatiou" firstname="Magy" value="84183" deptno="d002"/>
 <highsal lastname="Dredge" firstname="Yinghua" value="88087" deptno="d007"/>
@@ -48,3 +49,4 @@
 <highsal lastname="Suomi" firstname="Dipayan" value="82994" deptno="d003"/>
 <highsal lastname="Kossowski" firstname="Amstein" value="85416" deptno="d006"/>
 <highsal lastname="Zhiwei" firstname="Anyuan" value="84115" deptno="d004"/>
+</allhigh>
